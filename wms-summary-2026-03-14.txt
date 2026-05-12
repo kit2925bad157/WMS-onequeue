@@ -1,0 +1,24 @@
+WMS CoPilot X Dashboard Summary Report
+Generated: 3/14/2026, 8:52:41 AM
+
+OPERATIONAL RISK SCORE: 35/100 (Low)
+
+KEY METRICS:
+- Active Orders: 200
+- Active Tasks: 2
+- Online Workers: 32
+- Zones Monitored: 8
+
+ZONE CONGESTION:
+Zone A: 24% (Low) - 5 workers, 8 tasks
+Zone B: 78% (High) - 12 workers, 24 tasks
+Zone C: 42% (Low) - 6 workers, 10 tasks
+Zone D: 55% (Medium) - 9 workers, 16 tasks
+
+ACTIVE ALERTS:
+- Zone B Congestion - High
+- 3 Low Stock Items
+- 2 Delayed Tasks
+
+---
+Developed by SC TECH © 2026

@@ -1,0 +1,9 @@
+{
+  "name": "OneQueue - Universal Public Service Virtual Queue",
+  "description": "A citizen-centric virtual queue system designed to eliminate physical waiting lines at government hospitals, offices, and shops. Features include mobile joining, QR codes, and a minimal staff dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
